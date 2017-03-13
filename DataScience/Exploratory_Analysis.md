@@ -49,53 +49,60 @@ According to Hoaglin, Mosteller and Tukey (1983) there are four Rs of EDA:
 
 ## Principles of Analytic Graphics
 
-	### Principle 1: Show comparisons
+### Principle 1: Show comparisons
   
-		* Evidence for a hypothesis is always relative to another hypothesis
+  * Evidence for a hypothesis is always relative to another hypothesis
     
-	### Principle 2: Show causality, mechanism, explanation, systematic structure
+### Principle 2: Show causality, mechanism, explanation, systematic structure
 	
-    * What is your causal framework for thinking about a question?
+  * What is your causal framework for thinking about a question?
 
-	### Principle 3: Show multivariate data
+### Principle 3: Show multivariate data
 		
     * Multivariate = more than 2 variables
 		
     * The real world is multivariate
 
-	### Principle 4: Integration multiple modes of evidence
+### Principle 4: Integration multiple modes of evidence
 		
     * Completely integrate words, numbers, images, diagrams
-		* Data graphics should make use of many modes of data presentation
-		* Don't let the tool drive the analysis
 
-	### Principle 5: Describe and document the evidence with appropriate labels, scales, sources, etc
+    * Don't let the tool drive the analysis
+
+### Principle 5: Describe and document the evidence with appropriate labels, scales, sources, etc
   
-		* A data graphic should tell a complete story that is credible
+    * A data graphic should tell a complete story that is credible
 
-	### Principle 6: Content is king
+### Principle 6: Content is king
 		
     * Analytical presentations ultimately stand or fall depending on the quality, relevance and integraity of their content
 
 ## Why do we use graphs in data analysis?
 
-	* To understand data properties
-	* To find patterns in data
-	* To suggest modeling strategies
-	* To debug analysis
-	* To communicate results
+* To understand data properties
+
+* To find patterns in data
+
+* To suggest modeling strategies
+
+* To debug analysis
+
+* To communicate results
 
 ## Exploratory Graphs
-	* Tend to be made very quickly (quick and dirty)
-	* Tend to make a large number of them
-	* The objective is to develop a personal undestanding of the dataset (What are the properties, what are the problems?)
-	* Let you summarize the data (usually graphically) and highlight any broad feature
-	* Explore basic questions and hypotesis 
-  
-  
-  
 
+* Tend to be made very quickly (quick and dirty)
+
+* Tend to make a large number of them
+
+* The objective is to develop a personal undestanding of the dataset (What are the properties, what are the problems?)
+
+* Let you summarize the data (usually graphically) and highlight any broad feature
+
+* Explore basic questions and hypotesis 
+  
 -----------------------------------------------------------
 
 Behrens, J. T.. Principles and procedures of Exploratory Data Analysis. American Psychological Association Inc. 1997. Vol.2, No.2, 131-160
 
+Behrens J. T.; Yu, C.. Exploratory Data Analysis in Handbook of Psicology: Vol. 2 Research methods in Psichology.
