@@ -31,19 +31,19 @@ concept associated with summarization is that every summary represents a loss of
 
 According to Hoaglin, Mosteller and Tukey (1983) there are four Rs of EDA:
 
-  * Revelation - Graphics are the primary tool for the exploratory data analyst. 
+* Revelation - Graphics are the primary tool for the exploratory data analyst. 
   The most known graphical device for EDA is the box-plot.
   
-  * Residuals and Models - DATA = FIT + RESIDUALS. This simple formula reminds us that our primary focus is on the development of 
+* Residuals and Models - DATA = FIT + RESIDUALS. This simple formula reminds us that our primary focus is on the development of 
   compact descriptions of the world and that these descriptions will never be perfect; thus, there will always be some misfit
   betwen our model and the data. Errors and error's patterns and size should be analyzed in other to understands the models limitations 
   and how to improve it.
   
-  * Reexpression - same as appropiate scaling of data. Although mathematically equivalent to what is called transformation in other traditions,
+* Reexpression - same as appropiate scaling of data. Although mathematically equivalent to what is called transformation in other traditions,
   reexpression is so named to reflect the idea that the numerical changes are aimed at appropriate scaling rather than radical
   change.
   
-  * Resistance - Because a primary goal of using EDA is to avoi being fooled, resitance is an importante aspect of EDA.
+* Resistance - Because a primary goal of using EDA is to avoi being fooled, resitance is an importante aspect of EDA.
   Resistant methods are methods that are not easily affected by extreme or unusual data. T
 
 
@@ -51,31 +51,31 @@ According to Hoaglin, Mosteller and Tukey (1983) there are four Rs of EDA:
 
 ### Principle 1: Show comparisons
   
-  * Evidence for a hypothesis is always relative to another hypothesis
+* Evidence for a hypothesis is always relative to another hypothesis
     
 ### Principle 2: Show causality, mechanism, explanation, systematic structure
 	
-  * What is your causal framework for thinking about a question?
+* What is your causal framework for thinking about a question?
 
 ### Principle 3: Show multivariate data
 		
-    * Multivariate = more than 2 variables
+* Multivariate = more than 2 variables
 		
-    * The real world is multivariate
+* The real world is multivariate
 
 ### Principle 4: Integration multiple modes of evidence
 		
-    * Completely integrate words, numbers, images, diagrams
+* Completely integrate words, numbers, images, diagrams
 
-    * Don't let the tool drive the analysis
+* Don't let the tool drive the analysis
 
 ### Principle 5: Describe and document the evidence with appropriate labels, scales, sources, etc
   
-    * A data graphic should tell a complete story that is credible
+* A data graphic should tell a complete story that is credible
 
 ### Principle 6: Content is king
 		
-    * Analytical presentations ultimately stand or fall depending on the quality, relevance and integraity of their content
+* Analytical presentations ultimately stand or fall depending on the quality, relevance and integraity of their content
 
 ## Why do we use graphs in data analysis?
 
