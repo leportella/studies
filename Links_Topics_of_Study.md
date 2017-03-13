@@ -34,6 +34,7 @@ not forget them, when I want to study some topic.
 
 * [How the web works: HTTP and CGI explained](http://www.garshol.priv.no/download/text/http-tut.html)
 * [Understanding Nginx](https://www.digitalocean.com/community/tutorials/understanding-nginx-http-proxying-load-balancing-buffering-and-caching)
+* [What happends when](https://github.com/alex/what-happens-when)
 
 ## 4. Data Science
 
