@@ -16,6 +16,10 @@ negative kurtosis, at least if the sample size is large.
 many clusters to create. The output is a set of K cluster centroids and a labeling of X that assigns each of the points in X to a 
 unique cluster. All points within a cluster are closer in distance to their centroid than they are to any other centroid.
 
+**Statistical models**: are ideal, mathematical representations of observable characteristics. Models are best divided into two
+components. The structural componenent (or structural model or signal) specifies the relationship between explanatory variables 
+and the mean (or other key feature) of the outcome variables. The "random" or "error" component of the model (or error model or 
+noise) characterizes the deviations of the individual observations from the mean. Note that "error" doesn't mean "mistake".
 
 
 
