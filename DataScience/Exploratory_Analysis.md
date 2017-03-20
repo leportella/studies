@@ -1,4 +1,13 @@
-## Exploratory Data Analysis
+## Summary
+
+1. Exploratory Data Analysis
+2. EDA vs Statistics
+3. General concepts of EDA
+4. Principles of Analytic Graphics
+
+------------------------
+
+## 1. Exploratory Data Analysis
 
 **Data exploration** is look for something you are not always sure what it is (until you find it). 
 In a more strinct way, the **exploratory data analysis** (EDA) is a well-established statistical tradition that provides conceptual and 
@@ -35,6 +44,32 @@ Gaussian shape.
 * **Histograms** - histograms are one of the best ways to quickly learn a lot about your data, including central tendency, spread, modality, shape and outliers.
 * **Stem-and-leaf plots** - ometimes easier to make by hand than a histogram, and it tends not to hide any information.
 * **Box-plot** - very good at presenting information about the central tendency, symmetry and skew, as well as outliers, although they can be misleading about aspects such as multimodality.
+* **QQ plot** - It is used to see how well a particular sample follows a particular theoretical distribution.
+
+### Multivariate Non-Graphical EDA (Seltman, 2015)
+Multivariate non-graphical EDA techniques generally show the relationship between two or more variables in the form of either cross-tabulation or statistics.
+
+* **Correlation** - correlation between two categorical variables
+* **Cross-tabulation** - it is the basic bivariate non-graphical EDA technique.
+
+Table 1. Data sample
+| ID  | Age  | Sex  | 
+|-----|------|------|
+| GW  | young| F    |
+| JA  |middle| F    |
+| TJ  | young| M    |
+| JMA | young| M    |
+| JMO |middle| F    |
+| JQA | old  | F    |
+| AJ  | old  | M    |
+
+Table 2. Cross-tabulation of Sample data
+| Age/Sex | Female | Male | Total | 
+|---------|--------|------|-------|
+| young   |    1   |   2  |   3   |
+| middle  |    2   |   0  |   2   |
+| old     |    1   |   1  |   2   |
+| total   |    4   |   3  |   7   |
 
 ### Summarization
 
@@ -43,7 +78,7 @@ data. After reading a long book, one does not recall every individual word, but 
 way, the data analyst want to come away with a useable and parsimonious description rather than a long list of data. An essential
 concept associated with summarization is that every summary represents a loss of information.
 
-## EDA vs Statistics
+## 2. EDA vs Statistics
 
 The idea is not to reject probabilistic approaches, but rather considers them within a larger context of the many tools and ideas
 that bear on scientific work. In the case of outliers, the probabilistic question to be asked is: "If the underlying process 
@@ -54,7 +89,7 @@ may help me decide if extreme values are from the same process as the rest of th
 EDA is an approach to data analysis that postpones the usual assumptions about what kind of model the data follow with the more direct approach of allowing the data itself to reveal its underlying structure and model. EDA is not a mere collection of techniques; EDA is a philosophy as to how we dissect a data set; what we look for; how we look; and how we interpret. It is true that EDA heavily uses the collection of techniques that we call "statistical graphics", but it is not identical to statistical graphics per se (Nist, 2017). 
 
 
-## General concepts of EDA
+## 3. General concepts of EDA
 
 According to Hoaglin, Mosteller and Tukey (1983) there are four Rs of EDA:
 
@@ -74,7 +109,9 @@ According to Hoaglin, Mosteller and Tukey (1983) there are four Rs of EDA:
   Resistant methods are methods that are not easily affected by extreme or unusual data. T
 
 
-## Principles of Analytic Graphics
+## 4. Principles of Analytic Graphics
+
+Most EDA techniques are graphical in nature with a few quantitative techniques. The reason for the heavy reliance on graphics is that by its very nature the main role of EDA is to open-mindedly explore, and graphics gives the analysts unparalleled power to do so, enticing the data to reveal its structural secrets, and being always ready to gain some new, often unsuspected, insight into the data (Nist, 2017).
 
 ### Principle 1: Show comparisons
   
