@@ -12,6 +12,12 @@ interpretation (science). Neither can function without the other.
 "Exploratory data analysis can never be the whole story, but nothing else can serve as the foundation stone -- as the first step"
 (Tukey, 1977)
 
+Exploratory data analysis is generally cross-classified in two ways. First, each method is either non-graphical or graphical. 
+And second, each method is either univariate or multivariate (usually just bivariate). 
+Non-graphical methods generally involve calculation of summary statistics, while graphical methods obviously summarize the data in a diagrammatic or pictorial way. Univariate methods look at one variable (data column) at a time, 
+while multivariate methods look at two or more variables at a time to explore relationships. *It is almost
+always a good idea to perform univariate EDA on each of the components of a multivariate EDA before performing the multivariate EDA* (Seltman, 2015).
+
 ## EDA vs Statistics
 
 The idea is not to reject probabilistic approaches, but rather considers them within a larger context of the many tools and ideas
@@ -106,3 +112,5 @@ According to Hoaglin, Mosteller and Tukey (1983) there are four Rs of EDA:
 Behrens, J. T.. Principles and procedures of Exploratory Data Analysis. American Psychological Association Inc. 1997. Vol.2, No.2, 131-160
 
 Behrens J. T.; Yu, C.. Exploratory Data Analysis in Handbook of Psicology: Vol. 2 Research methods in Psichology.
+
+Seltman, H.; Experimental Design and Analysis. 2015. Available in: http://www.stat.cmu.edu/~hseltman/309/Book/
