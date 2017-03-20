@@ -35,7 +35,7 @@ Gaussian shape.
 * **Histograms** - histograms are one of the best ways to quickly learn a lot about your data, including central tendency, spread, modality, shape and outliers.
 * **Stem-and-leaf plots** - ometimes easier to make by hand than a histogram, and it tends not to hide any information.
 * **Box-plot** - very good at presenting information about the central tendency, symmetry and skew, as well as outliers, although they can be misleading about aspects such as multimodality.
-* 
+
 
 ## EDA vs Statistics
 
@@ -43,7 +43,9 @@ The idea is not to reject probabilistic approaches, but rather considers them wi
 that bear on scientific work. In the case of outliers, the probabilistic question to be asked is: "If the underlying process 
 has a distribution of X and I exclude data from it, is the result biased in the long run?" while in the exploratory analysis 
 the question should be "Given that I do not know the underlying distribution of X, what do I know about the processes that 
-may help me decide if extreme values are from the same process as the rest of the data?".
+may help me decide if extreme values are from the same process as the rest of the data?" (Behrens, 1997). 
+
+EDA is an approach to data analysis that postpones the usual assumptions about what kind of model the data follow with the more direct approach of allowing the data itself to reveal its underlying structure and model. EDA is not a mere collection of techniques; EDA is a philosophy as to how we dissect a data set; what we look for; how we look; and how we interpret. It is true that EDA heavily uses the collection of techniques that we call "statistical graphics", but it is not identical to statistical graphics per se (Nist, 2017). 
 
 ## Summarization
 
@@ -131,5 +133,7 @@ According to Hoaglin, Mosteller and Tukey (1983) there are four Rs of EDA:
 Behrens, J. T.. Principles and procedures of Exploratory Data Analysis. American Psychological Association Inc. 1997. Vol.2, No.2, 131-160
 
 Behrens J. T.; Yu, C.. Exploratory Data Analysis in Handbook of Psicology: Vol. 2 Research methods in Psichology.
+
+Nist; Exploratory Data Analsysis. Acess: 2017. Available in: http://www.itl.nist.gov/div898/handbook/eda/section1/eda11.htm
 
 Seltman, H.; Experimental Design and Analysis. 2015. Available in: http://www.stat.cmu.edu/~hseltman/309/Book/
