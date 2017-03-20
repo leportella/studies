@@ -12,8 +12,15 @@
 **Data exploration** is look for something you are not always sure what it is (until you find it). 
 In a more strinct way, the **exploratory data analysis** (EDA) is a well-established statistical tradition that provides conceptual and 
 computational tools for discovering patterns to foster hypothesis development and refinement (Behrens, 1997). 
-The underlying assumption of the exploratory approach is that the more one knows about the data, the more effectively data can be used 
-to develop, test and refine theory. 
+The underlying assumption of the exploratory approach is that the more one knows about the data, the more effectively data can be used to develop, test and refine theory. 
+
+It is useful for (Seltman, 2015):
+
+* Detection of mistakes;
+* Checking of assumptions;
+* Determining relationships among the explanatory variables;
+* Assesing the direction and rough size of relationships between explanatoru and outcome variables;
+* Preliminary selection of appropriate models of the relationship between an outcome variable and one or more explanatory variables.
 
 Data analysts and scientists must work interactively in a cyclical process of pattern extraction (mathematics) and pattern 
 interpretation (science). Neither can function without the other. 
