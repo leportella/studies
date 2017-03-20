@@ -36,6 +36,12 @@ Gaussian shape.
 * **Stem-and-leaf plots** - ometimes easier to make by hand than a histogram, and it tends not to hide any information.
 * **Box-plot** - very good at presenting information about the central tendency, symmetry and skew, as well as outliers, although they can be misleading about aspects such as multimodality.
 
+### Summarization
+
+When faced with numerous pieces of data, the goal of the analyst is to construct a terse yet rich mathematical description of the
+data. After reading a long book, one does not recall every individual word, but rather remembers a major themes. In a similar 
+way, the data analyst want to come away with a useable and parsimonious description rather than a long list of data. An essential
+concept associated with summarization is that every summary represents a loss of information.
 
 ## EDA vs Statistics
 
@@ -47,12 +53,6 @@ may help me decide if extreme values are from the same process as the rest of th
 
 EDA is an approach to data analysis that postpones the usual assumptions about what kind of model the data follow with the more direct approach of allowing the data itself to reveal its underlying structure and model. EDA is not a mere collection of techniques; EDA is a philosophy as to how we dissect a data set; what we look for; how we look; and how we interpret. It is true that EDA heavily uses the collection of techniques that we call "statistical graphics", but it is not identical to statistical graphics per se (Nist, 2017). 
 
-## Summarization
-
-When faced with numerous pieces of data, the goal of the analyst is to construct a terse yet rich mathematical description of the
-data. After reading a long book, one does not recall every individual word, but rather remembers a major themes. In a similar 
-way, the data analyst want to come away with a useable and parsimonious description rather than a long list of data. An essential
-concept associated with summarization is that every summary represents a loss of information.
 
 ## General concepts of EDA
 
@@ -104,7 +104,7 @@ According to Hoaglin, Mosteller and Tukey (1983) there are four Rs of EDA:
 		
 * Analytical presentations ultimately stand or fall depending on the quality, relevance and integraity of their content
 
-## Why do we use graphs in data analysis?
+### Why do we use graphs in data analysis?
 
 * To understand data properties
 
@@ -116,7 +116,7 @@ According to Hoaglin, Mosteller and Tukey (1983) there are four Rs of EDA:
 
 * To communicate results
 
-## Exploratory Graphs
+### Exploratory Graphs
 
 * Tend to be made very quickly (quick and dirty)
 
