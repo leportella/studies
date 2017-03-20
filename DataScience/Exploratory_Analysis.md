@@ -18,6 +18,25 @@ Non-graphical methods generally involve calculation of summary statistics, while
 while multivariate methods look at two or more variables at a time to explore relationships. *It is almost
 always a good idea to perform univariate EDA on each of the components of a multivariate EDA before performing the multivariate EDA* (Seltman, 2015).
 
+### Univariate Non-graphical EDA (Seltman, 2015)
+
+* **Central tendency**: The central tendency of a distribution has to do with typical or middle values. The commom, useful measures
+of central tendency are the statistics called mean, median and sometimes mode.
+
+* **Spread of a distribution**: is an indicator of how far from the center we are stull likely to find data values. It includes 
+variance, standard deviation and interquartile range (IQR = Q3-Q1). The last is a more robust measure of spread than the variance
+or standard deviation since few extreme outliers have little or no effect on the IQR.
+
+* **Skeweness and kurtosis**: skeweness is a measure of asymmetry while kurtosis is a measured of "peakedness" relatvie to the
+Gaussian shape. 
+
+### Univariate Graphical EDA (Seltman, 2015)
+
+* **Histograms** - histograms are one of the best ways to quickly learn a lot about your data, including central tendency, spread, modality, shape and outliers.
+* **Stem-and-leaf plots** - ometimes easier to make by hand than a histogram, and it tends not to hide any information.
+* **Box-plot** - very good at presenting information about the central tendency, symmetry and skew, as well as outliers, although they can be misleading about aspects such as multimodality.
+* 
+
 ## EDA vs Statistics
 
 The idea is not to reject probabilistic approaches, but rather considers them within a larger context of the many tools and ideas
