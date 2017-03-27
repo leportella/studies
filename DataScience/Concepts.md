@@ -9,12 +9,18 @@ grouping, or classification of measurements based on either (i) goodness-of-fit 
 
 Regardless of what we are trying to measure, the qualities that make a good measure of a scientific concept are high reliability, absece of bias, loew cost, practicality, objectivity, high acceptance and high concept validity. Precision or reliability refers to the reproducibility of repeated measurements, while bias refers to how far the average of many measurements is from the true value. 
 
-Variables can be divided regarding their roles (explanatory or outcome variables) or by its statistical type
+Variables can be divided regarding their roles (explanatory or outcome variables) or by its statistical type (Quantitative or Categorical Variables).
+
+Classification of variables by their roles and by their statistical types are the first two and the most important steps to choosing a correct analysis for an experiment.
 
 
 ## Small Dictionary
 
 **Bias**: refers to the difference between the measure and some "true" value. A difference between and *individual* measurement and the true value is called an error. The bias is the average difference over many measurements.
+
+**Categorical variables**: variables characteristicas that are in non-quantitative categories. The different values taken on by 
+a categorical variable are often called levels. If the levels are simple arbitrar names, the variables is nominal (color of 
+eyes). But if there are at least three levels (grades in a school, such as A,B,C), then the variable is ordinal.
 
 **Clustering**: is the unsupervised classification of patterns (observations, data items or feature vector) 
 into groups (clusters). Intuitively, patterns within a valid cluster are more similar to each other than they are
@@ -35,6 +41,8 @@ unique cluster. All points within a cluster are closer in distance to their cent
 **Operationalization**: the formal procedure that links scientific concepts to data collection. Operationalization define measures and variables which are quantities of interest or which serve as the practical substitutes for the concepts of interest. For example, if you have a theory about what affects people's anger level, you need to operationalize the concept of anger.
 
 **Outcome variables**: same as dependent variable or DV.
+
+**Quantitative variables**: measurements with meaningful magnitudes. They can be discrete (only whole number counts are valid, such as number of children per woman) or continuous (fractions are at least theoretically meaningful).
 
 **Statistical models**: are ideal, mathematical representations of observable characteristics. Models are best divided into two
 components. The structural componenent (or structural model or signal) specifies the relationship between explanatory variables 
