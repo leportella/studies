@@ -9,7 +9,7 @@ grouping, or classification of measurements based on either (i) goodness-of-fit 
 
 Regardless of what we are trying to measure, the qualities that make a good measure of a scientific concept are high reliability, absece of bias, loew cost, practicality, objectivity, high acceptance and high concept validity. Precision or reliability refers to the reproducibility of repeated measurements, while bias refers to how far the average of many measurements is from the true value. 
 
-
+Variables can be divided regarding their roles (explanatory or outcome variables) or by its statistical type
 
 
 ## Small Dictionary
@@ -25,6 +25,8 @@ to a pattern belonging to a different cluster (Jain et. al, 1999).
 **Fat-tail**: When a histogram has a lot of values far from the mean relative to a Gaussian distribution. This corresponds to 
 positive kurtosis. On a boxplot, many outliers suggests fat tails or possibly data entry errors, while short whiskers suggest 
 negative kurtosis, at least if the sample size is large.
+
+**Interaction**: how the effects of the explanatory variable on the outcome depends on the level of another explanatory variable.
 
 **K-mean technique**: The k-means algorithm takes a dataset X of N points as input, together with a parameter K specifying how 
 many clusters to create. The output is a set of K cluster centroids and a labeling of X that assigns each of the points in X to a 
