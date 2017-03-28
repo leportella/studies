@@ -43,7 +43,11 @@ not forget them, when I want to study some topic.
 
 ### 4.1 Exploratory Analysis
 
-* [Data Exploration with Python](ttp://blog.districtdatalabs.com/data-exploration-with-python-1)
+* [Data Exploration with Python](http://blog.districtdatalabs.com/data-exploration-with-python-1)
+
+### 4.2 Online Courses
+
+* [Data Science: Data to Insights](https://mitprofessionalx.mit.edu/courses/course-v1:MITProfessionalX+DSx+2017_T1/about)
 
 ## 5. Leadership
 
