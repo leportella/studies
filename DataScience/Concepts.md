@@ -26,6 +26,8 @@ eyes). But if there are at least three levels (grades in a school, such as A,B,C
 into groups (clusters). Intuitively, patterns within a valid cluster are more similar to each other than they are
 to a pattern belonging to a different cluster (Jain et. al, 1999).
 
+**Data Imputation**: Replacing empty values on a column (or row) by the mean value of the column (or row).
+
 **Explanatory variables**: include variables purposely manipulated in an experiment and variables that are not purposely manipulated, but are thought to possibly affect the outcome. Complete or partial synonyms include independent variable (IV), covariate, blocking factor and predictor variable.
 
 **Fat-tail**: When a histogram has a lot of values far from the mean relative to a Gaussian distribution. This corresponds to 
