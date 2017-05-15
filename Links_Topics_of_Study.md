@@ -9,10 +9,13 @@ not forget them, when I want to study some topic.
 
 3. Web
 
+   3.1 Django
+
 4. Data Science
 
    4.1 Exploratory Analysis
    4.2 Artificial Inteligence
+   4.3 Online Courses
    
 5. Leadership
 
@@ -58,7 +61,7 @@ not forget them, when I want to study some topic.
 
 * [Artificial Intelligence in Google's Dinossaur](https://www.youtube.com/watch?v=P7XHzqZjXQs)
 
-### 4.2 Online Courses
+### 4.3 Online Courses
 
 * [Data Science: Data to Insights](https://mitprofessionalx.mit.edu/courses/course-v1:MITProfessionalX+DSx+2017_T1/about)
 
