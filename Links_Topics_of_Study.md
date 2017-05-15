@@ -40,6 +40,8 @@ not forget them, when I want to study some topic.
 
 * [Building a data science portfolio: Making a data science blog](https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/)
 * [How create some maps using Python](http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html)
+* [Data Science Workflow: Overview and Challenges](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)
+* [Tensorflow and deep learning - without a PhD](https://www.youtube.com/watch?v=vq2nnJ4g6N0)
 
 ### 4.1 Exploratory Analysis
 
