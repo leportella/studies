@@ -53,7 +53,7 @@ not forget them, when I want to study some topic.
 
 ## 5. Leadership
 
-* [5 Book recommendations from badass female leaders]http://girlsintech.org/2017/01/09/5-book-recommendations-from-badass-female-leaders/)
+* [5 Book recommendations from badass female leaders](http://girlsintech.org/2017/01/09/5-book-recommendations-from-badass-female-leaders/)
 
 ## Interviews
 
