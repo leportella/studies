@@ -3,7 +3,7 @@
 These are some random links and topics I would like to study. Some of them I have read, some I have not. This is more for me to
 not forget them, when I want to study some topic.
 
-1. [General Study Guides](#1.-general-study-guides)
+1. [General Study Guides](#general-study-guides)
 
 2. DataBases
 
@@ -26,7 +26,7 @@ not forget them, when I want to study some topic.
 ----------------------------------------------------------------------
 
 
-## 1. General Study Guides
+## General Study Guides
 
 
 * [Google Interview University](https://github.com/jwasham/google-interview-university#why-use-it)
