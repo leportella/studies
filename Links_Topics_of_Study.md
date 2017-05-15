@@ -12,6 +12,7 @@ not forget them, when I want to study some topic.
 4. Data Science
 
    4.1 Exploratory Analysis
+   4.2 Artificial Inteligence
    
 5. Leadership
 
@@ -38,6 +39,10 @@ not forget them, when I want to study some topic.
 * [Understanding Nginx](https://www.digitalocean.com/community/tutorials/understanding-nginx-http-proxying-load-balancing-buffering-and-caching)
 * [What happends when](https://github.com/alex/what-happens-when)
 
+### 3.1 Django
+
+* [Asynchronous Tasks With Django and Celery ](https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/)
+
 ## 4. Data Science
 
 * [Building a data science portfolio: Making a data science blog](https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/)
@@ -48,6 +53,10 @@ not forget them, when I want to study some topic.
 ### 4.1 Exploratory Analysis
 
 * [Data Exploration with Python](http://blog.districtdatalabs.com/data-exploration-with-python-1)
+
+### 4.2 Artificial Intelligence
+
+* [Artificial Intelligence in Google's Dinossaur](https://www.youtube.com/watch?v=P7XHzqZjXQs)
 
 ### 4.2 Online Courses
 
