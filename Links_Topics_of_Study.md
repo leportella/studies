@@ -5,13 +5,13 @@ not forget them, when I want to study some topic.
 
 1. [General Study Guides](#general-study-guides)
 
-2. DataBases
+2. [DataBases](#databases)
 
-3. Web
+3. [Web](#web)
 
-   3.1 Django
+   3.1 [Django](#django)
 
-4. Data Science
+4. [Data Science](#data-science)
 
    4.1 Exploratory Analysis
    4.2 Artificial Inteligence
@@ -32,22 +32,22 @@ not forget them, when I want to study some topic.
 * [Google Interview University](https://github.com/jwasham/google-interview-university#why-use-it)
 * [Learnable Programming](http://worrydream.com/LearnableProgramming/)
 
-## 2. Databases
+## Databases
 
 * Atomicity Consistency Isolation Durability (ACID)
 * Relational Algebra
 
-## 3. Web
+## Web
 
 * [How the web works: HTTP and CGI explained](http://www.garshol.priv.no/download/text/http-tut.html)
 * [Understanding Nginx](https://www.digitalocean.com/community/tutorials/understanding-nginx-http-proxying-load-balancing-buffering-and-caching)
 * [What happends when](https://github.com/alex/what-happens-when)
 
-### 3.1 Django
+### Django
 
 * [Asynchronous Tasks With Django and Celery ](https://realpython.com/blog/python/asynchronous-tasks-with-django-and-celery/)
 
-## 4. Data Science
+## Data Science
 
 * [Building a data science portfolio: Making a data science blog](https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/)
 * [How create some maps using Python](http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html)
