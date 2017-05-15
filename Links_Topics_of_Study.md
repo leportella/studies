@@ -26,7 +26,7 @@ not forget them, when I want to study some topic.
 ----------------------------------------------------------------------
 
 
-## General Study Guides
+## 1. General Study Guides
 
 
 * [Google Interview University](https://github.com/jwasham/google-interview-university#why-use-it)
