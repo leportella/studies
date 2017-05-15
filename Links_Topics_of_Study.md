@@ -16,6 +16,8 @@ not forget them, when I want to study some topic.
 5. Leadership
 
 6. Cool Personal Stuff
+
+7. Interviews
   
 ----------------------------------------------------------------------
 
@@ -55,10 +57,11 @@ not forget them, when I want to study some topic.
 
 * [5 Book recommendations from badass female leaders](http://girlsintech.org/2017/01/09/5-book-recommendations-from-badass-female-leaders/)
 
-## Interviews
-
-* [The Guerrilla guide to interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
-
 ## 6. Cool Pesonal Stuff
 
 * [Question](https://markmanson.net/question)
+
+## 7. Interviews
+
+* [The Guerrilla guide to interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
+
